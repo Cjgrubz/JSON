@@ -1,0 +1,17 @@
+[
+  {
+    "chord" : "A",
+    "strings" : "3",
+    "frets" : "2"
+  },
+  {
+    "chord" : "B",
+    "strings" : "4",
+    "frets" : "2,4"
+  },
+  {
+    "chords" : "C",
+    "strings" : "3",
+    "frets" : "1,2,3"
+  }
+]
