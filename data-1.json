@@ -10,7 +10,7 @@
     "frets" : "1st,2nd,3rd"
   },
   {
-    "chords" : "G",
+    "chord" : "G",
     "strings" : "3",
     "frets" : "2nd,3rd"
   }
