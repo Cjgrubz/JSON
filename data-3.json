@@ -10,7 +10,7 @@
     "frets" : "1st,2nd"
   },
   {
-    "chords" : "Bm",
+    "chord" : "Bm",
     "strings" : "4",
     "frets" : "2nd,3rd,4th"
   }
