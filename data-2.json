@@ -2,16 +2,16 @@
   {
     "chord" : "A",
     "strings" : "3",
-    "frets" : "2"
+    "frets" : "2nd"
   },
   {
     "chord" : "B",
     "strings" : "4",
-    "frets" : "2,4"
+    "frets" : "2nd,4th"
   },
   {
     "chords" : "C",
     "strings" : "3",
-    "frets" : "1,2,3"
+    "frets" : "1st,2nd,3rd"
   }
 ]
